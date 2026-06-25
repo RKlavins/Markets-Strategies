@@ -32,7 +32,7 @@ market neutrality, walk-forward validation
 ---
 
 ### 2. Z-Score Mean Reversion — Crude Oil
-**Folder:** `mean-reversion/`
+**Folder:** `MA_Z-Score/`
 
 Single-asset mean reversion strategy on WTI Crude Oil futures. Uses a rolling 
 Z-score to identify when price has deviated significantly from its recent mean 
