@@ -49,8 +49,9 @@ Sharpe ratio, drawdown analysis
 ---
 
 ### 3. Regime-Switching Strategy — SPY
-**Folder:** `regime-switching/`
+**Folder:** `MA_Z-Score/`
 
+(Same file as the previous mean reversion)
 A hybrid strategy that first classifies the market regime (bullish, bearish, 
 or ranging) using moving average relationships, then applies appropriate 
 Z-score signals for each regime. Only buys dips in bull markets, only shorts 
