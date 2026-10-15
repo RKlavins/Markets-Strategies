@@ -5,8 +5,8 @@ and AI-assisted development. Each project follows a rigorous research process:
 hypothesis → data analysis → strategy construction → stress testing → 
 out-of-sample validation → live paper trading.
 
-Built during summer 2025 as part of a self-directed quantitative finance 
-curriculum, prior to starting BSc Economics at Stockholm School of Economics.
+Built during summer 2026 as part of a self-directed quantitative finance 
+curriculum, prior to starting BSc Intelligent Engineering and Technology at  @ NTU.
 
 ---
 
